@@ -1,34 +1,112 @@
-<h1 align="center">Hi 👋, I'm Rakib Alam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">👋 Hi, I'm Rakib Alam</h1> <h3 align="center"> 🚀 Frontend Developer | Full Stack Developer in Progress | Content Creator </h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+Developer+in+Progress;Hackathon+Builder;Open+Source+Enthusiast;Content+Creator" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=rakibalam6072564-coder&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/rakibalam6072564-coder?label=Followers&style=for-the-badge&color=blue" alt="Followers" /> <img src="https://img.shields.io/github/stars/rakibalam6072564-coder?label=Stars&style=for-the-badge&color=yellow" alt="Stars" /> </p>
+👨‍💻 About Me
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibalam6072564-coder&label=Profile%20views&color=0e75b6&style=flat" alt="rakibalam6072564-coder" /> </p>
+🔭 Currently working on CABTA
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibalam6072564-coder" alt="rakibalam6072564-coder" /></a> </p>
+🌱 Currently learning Full Stack Development
 
-- 🔭 I’m currently working on **CABTA**
+👯 Looking to collaborate on Hackathon Sim
 
-- 🌱 I’m currently learning **Full Stack Dev**
+🤝 Looking for help with Hackathon Sim
 
-- 👯 I’m looking to collaborate on **Hackathon Sim**
+💻 Passionate about Frontend & Web Development
 
-- 🤝 I’m looking for help with **Hackathon Sim**
+🚀 Interested in Full Stack Development
 
-- 📫 How to reach me **rakib.alam6072564@gmail.com**
+🏆 Love building projects and participating in Hackathons
 
-- ⚡ Fun fact **I am a content creation**
+🎬 I'm also a Content Creator
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakib alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakib alam" height="30" width="40" /></a>
-<a href="https://fb.com/rakib alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakib alam" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/825109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="825109" height="30" width="40" /></a>
+📫 Email: rakib.alam6072564@gmail.com
+
+<br clear="right"/>
+🌐 Connect With Me
+<p align="center"> <a href="mailto:rakib.alam6072564@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://linkedin.com/in/rakib-alam"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.facebook.com/rakib.alam"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://www.topcoder.com/members/825109"> <img src="https://img.shields.io/badge/Topcoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder"/> </a> </p>
+🛠️ Languages & Technologies
+💻 Programming Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,kotlin" alt="Programming Languages"/> </p>
+🎨 Frontend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,vue,d3" alt="Frontend"/> </p>
+⚙️ Backend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,flask,spring,dotnet" alt="Backend"/> </p>
+🗄️ Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" alt="Databases"/> </p>
+☁️ Cloud & DevOps
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,bash,git,github" alt="Cloud and DevOps"/> </p>
+🤖 Data & Machine Learning
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch" alt="Machine Learning"/> </p>
+📊 GitHub Analytics
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rakibalam6072564-coder&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibalam6072564-coder&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/> </p>
+🔥 Contribution Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibalam6072564-coder&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rakibalam6072564-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/> </p>
+📈 Contribution Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibalam6072564-coder&bg_color=0D1117&color=58A6FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph"/> </p>
+📅 Contribution Calendar
+<p align="center"> <img src="https://ghchart.rshah.org/409ba5/rakibalam6072564-coder" alt="GitHub Contribution Calendar"/> </p>
+📊 GitHub Reports
+<p align="center"> <img src="https://img.shields.io/github/commit-activity/y/rakibalam6072564-coder?style=for-the-badge&logo=github&label=YEARLY%20COMMITS&color=blue" alt="Yearly Commits"/> <img src="https://img.shields.io/github/last-commit/rakibalam6072564-coder?style=for-the-badge&logo=github&label=LAST%20COMMIT&color=green" alt="Last Commit"/> <img src="https://img.shields.io/github/repo-size/rakibalam6072564-coder/CABTA?style=for-the-badge&logo=github&label=CABTA%20SIZE&color=orange" alt="CABTA Repository Size"/> <img src="https://img.shields.io/github/languages/count/rakibalam6072564-coder/CABTA?style=for-the-badge&logo=github&label=LANGUAGES&color=purple" alt="Languages"/> </p>
+⭐ GitHub Stars & Community
+<p align="center"> <img src="https://img.shields.io/github/stars/rakibalam6072564-coder?style=for-the-badge&logo=github&logoColor=white&label=TOTAL%20STARS&color=yellow" alt="Total Stars"/> <img src="https://img.shields.io/github/followers/rakibalam6072564-coder?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=blue" alt="Followers"/> <img src="https://img.shields.io/github/repositories/rakibalam6072564-coder?style=for-the-badge&logo=github&logoColor=white&label=PUBLIC%20REPOS&color=purple" alt="Repositories"/> </p>
+🚀 Featured Projects
+<table> <tr> <td width="50%" align="center">
+🚕 CABTA
+<a href="https://github.com/rakibalam6072564-coder/CABTA"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakibalam6072564-coder&repo=CABTA&theme=tokyonight&hide_border=true" alt="CABTA"/> </a>
+
+🚀 Current Project
+
+</td> <td width="50%" align="center">
+🏆 Hackathon Sim
+<a href="https://github.com/rakibalam6072564-coder/Hackathon-Sim"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakibalam6072564-coder&repo=Hackathon-Sim&theme=tokyonight&hide_border=true" alt="Hackathon Sim"/> </a>
+
+🏆 Hackathon Project
+
+</td> </tr> </table> <p align="center"> <a href="https://github.com/rakibalam6072564-coder?tab=repositories"> <img src="https://img.shields.io/badge/🔎_View_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/> </a> </p>
+💡 What I'm Currently Learning
+<p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Full%20Stack-Development-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud-Development-4285F4?style=for-the-badge"/> </p>
+🎯 2026 Goals
+<table align="center"> <tr> <td align="center">🚀<br/><b>Full Stack</b><br/>Become a stronger Full Stack Developer</td> <td align="center">🏆<br/><b>Hackathons</b><br/>Participate in more hackathons</td> <td align="center">🌐<br/><b>Open Source</b><br/>Contribute to Open Source</td> </tr> <tr> <td align="center">💻<br/><b>Projects</b><br/>Build meaningful projects</td> <td align="center">🧠<br/><b>DSA</b><br/>Improve problem solving</td> <td align="center">🎬<br/><b>Content</b><br/>Create more technical content</td> </tr> </table>
+📌 My Developer Journey
+Frontend Development
+        │
+        ▼
+React / Next.js / Vue
+        │
+        ▼
+Backend Development
+        │
+        ▼
+Node.js / Django / Spring
+        │
+        ▼
+Databases & APIs
+        │
+        ▼
+Cloud & DevOps
+        │
+        ▼
+        🚀
+   Full Stack Developer
+
+🧑‍💻 Coding Profile
+<p align="center"> <a href="https://www.topcoder.com/members/825109"> <img src="https://img.shields.io/badge/Topcoder-825109-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder"/> </a> </p>
+📈 My GitHub Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibalam6072564-coder&custom_title=Rakib%20Alam's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=00E5FF&point=FFFFFF&area_color=1F6FEB&area=true&hide_border=true" alt="Rakib Alam Contribution Graph"/> </p>
+💬 Quote
+<p align="center">
+✨ "Build. Learn. Break. Fix. Repeat." ✨
 </p>
+🤝 Let's Build Something Amazing
+<p align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+I'm always interested in collaborating on interesting projects,
+hackathons, open-source ideas and innovative products.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibalam6072564-coder&show_icons=true&locale=en&layout=compact" alt="rakibalam6072564-coder" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibalam6072564-coder&show_icons=true&locale=en" alt="rakibalam6072564-coder" /></p>
+<strong>Have an idea? Let's build it together! 🚀</strong>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibalam6072564-coder&" alt="rakibalam6072564-coder" /></p>
+</p> <p align="center"> <a href="mailto:rakib.alam6072564@gmail.com"> <img src="https://img.shields.io/badge/📩_Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/> </a> <a href="https://github.com/rakibalam6072564-coder"> <img src="https://img.shields.io/badge/⭐_Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me"/> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer" alt="Footer"/> </p>
